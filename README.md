@@ -1,4 +1,4 @@
-# To-Do List
+# 簡易版To-Do List
 ## Introduction
 - 利用 localStorage 製作 To Do List
 - 可自行新增/刪除資料
